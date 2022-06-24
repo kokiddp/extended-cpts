@@ -1,12 +1,16 @@
 {
-	"name": "johnbillion/extended-cpts",
+	"name": "kokiddp/extended-cpts",
 	"description": "A library which provides extended functionality to WordPress custom post types and taxonomies.",
-	"homepage": "https://github.com/johnbillion/extended-cpts/",
+	"homepage": "https://github.com/kokiddp/extended-cpts/",
 	"license": "GPL-2.0+",
 	"authors": [
 		{
 			"name": "John Blackbourn",
 			"homepage": "https://johnblackbourn.com/"
+		},
+		{
+			"name": "Gabriele Coquillard",
+			"homepage": "https://elk-lab.com/"
 		}
 	],
 	"config": {
